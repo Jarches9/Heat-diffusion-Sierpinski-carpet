@@ -21,7 +21,7 @@ The main quantities analyzed are:
 
   The Sierpinski carpet maintains a higher maximum temperature and shows a slower spatial spreading than the regular square.
 
-  ##Technologies
+  ## Technologies
 
   - Python
   - NumPy
